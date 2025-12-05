@@ -1,0 +1,5 @@
+DECRYPTION KEY (give this to your friend, then delete your copy):
+R3YXXXXXXXXXXXXXXXXXXXXXXXXXXXsdE=
+
+ENCRYPTED TOKEN (already pasted reveal_password.py):
+gAAAAABpMjy6wby_97LJBdqURmJcV40jl1h7djA59DimOc6UHb54IuATjHag60gG1rCbyJddFpcIu5CBbavJIgeuE5A1ctPLAg==
