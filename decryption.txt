@@ -1,5 +1,11 @@
-DECRYPTION KEY (give this to your friend, then delete your copy):
-R3YXXXXXXXXXXXXXXXXXXXXXXXXXXXsdE=
+DECRYPTION KEY (Vlad, Peggy, Nastya, Matt have the key)
+R3YaxYBpJ4bySLQxON3Nu7QGreg2hWgKhaxr0UF_sdE=
+
+DECRYPTION KEY - for Facebook - if tempted - send someone and delete
+ytM6r_aS7yoxMdMN_XVlayK KGlUOIsVS-jHUZsm6Ijc= 
 
 ENCRYPTED TOKEN (already pasted reveal_password.py):
 gAAAAABpMjy6wby_97LJBdqURmJcV40jl1h7djA59DimOc6UHb54IuATjHag60gG1rCbyJddFpcIu5CBbavJIgeuE5A1ctPLAg==
+
+ENCRYPTED TOKEN for Facebook
+gAAAAABpNNjRWIAMc5-nTZU-5htdCIfVd7YfxzD7h7rI_haBZTatdZi-_BZsbvpLfFfmkSVlA7MO2YBKSIrwHkGD54BQG0AO2Q==
